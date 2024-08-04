@@ -6,7 +6,7 @@ The project name is AIDS Classification. This is project to fulfill my assignmen
 
 ## Project Intro/Objective
 
-The purpose of this project is to make predict who patient will have chance to get affected by AIDS based on their personal information, behaviour, and treatment. This will make benefit to save people life as many as possible because there are no cure for AIDS and it will sure leading to death. For that i use SVM as part of supervised learning and got recall score 0.73.
+Developed a machine learning project utilizing Super Vector Machine (SVM) to classify patient HIV who infected AIDS based on their profile, behavior, and treatment. I am using this [link](https://www.kaggle.com/datasets/aadarshvelu/aids-virus-infection-prediction) for my dataset. This model achieves a recall score of 0.73.
 
 ### Methods Used
 
